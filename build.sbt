@@ -1,4 +1,4 @@
-name := "kafka_client"
+name :=  "kafka_consumer"
 
 version := "0.1"
 
